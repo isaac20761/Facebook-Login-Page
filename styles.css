@@ -1,0 +1,164 @@
+
+
+body{
+    background-color: rgb(108, 11, 199);
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.form{
+    text-align: center;
+}
+
+.img{
+    width: 96px;
+    border-radius: 70px;
+}
+
+
+.wrapper2{
+    background-color: whitesmoke;
+    padding-left: 200px;
+
+}
+
+.facebook{
+    display: inline-block;
+    text-align: center;
+    background-color: blueviolet;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 343px; 
+      
+}
+
+.helen{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px 3px gainsboro;
+    margin-top: 70px;
+    margin-right: 140px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.welcome{
+    white-space: nowrap;
+    color:white;
+    font-size: larger;
+}
+
+.you{white-space: nowrap;
+    margin-top: 10px;
+}
+
+.fb{
+    color: white;
+}
+
+.back{
+    margin-top: 50px;
+}
+
+.Dino{
+    color: white;
+    font-size: large;
+}
+
+.btn{
+    border: 5px;
+    border-radius: 20px;
+    margin-top: 75px;
+    padding: 15px 90px 15px 90px;
+    white-space: nowrap;
+    background-color: blue;
+    color: white;
+    border: 1px solid  white;
+    
+}
+
+.you{
+    color: blueviolet;
+    padding-left: 95px;
+    margin-top: 50px;
+}
+
+
+.btn2{
+    border: 5px;
+    border-radius: 20px;
+    margin-right: 140px;
+    height: 50px;
+    width: 340px;
+    white-space: nowrap;
+    background-color: whitesmoke;
+    color: blue;
+    border: 1px solid grey;
+    
+}
+
+
+
+.hr1{
+    width: 350px;
+}
+
+.hr2{
+    width: 350px;
+}
+
+
+.login{
+  background-color: blue;
+  height: 50px;
+  margin-right: 6px;
+  margin-top: 60px;
+  border-radius: 30px;
+  padding-left: 10px;
+  font-size: 16px;
+  width: 70%;
+  border: 1.5px solid #eeeff0; 
+  color: white;
+    
+}
+
+.password{
+    margin-top: 50px;
+}
+
+.your{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
